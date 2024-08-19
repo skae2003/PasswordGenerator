@@ -1,1 +1,1 @@
-# PasswordGenerator
+# PasswordGenerator and Validator
